@@ -1,0 +1,12 @@
+ros-rolling-sick-safevisionary-interfaces (1.0.1-1jammy) jammy; urgency=high
+
+  * Update maintainer tags
+  * Add a minimal readme for the interfaces package
+  * Added license and maintainer infos
+  * added header to custom msgs
+  * Added interfaces for internal sensor data
+  * Contributors: Marvin Große Besselmann, Stefan Scherzinger
+
+ -- Marvin Grosse Besselmann <grosse@fzi.de>  Tue, 21 Nov 2023 23:00:00 -0000
+
+
