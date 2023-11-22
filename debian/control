@@ -1,0 +1,12 @@
+Source: ros-iron-sick-safevisionary-tests
+Section: misc
+Priority: optional
+Maintainer: Marvin Grosse Besselmann <grosse@fzi.de>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake, ros-iron-launch <!nocheck>, ros-iron-launch-ros <!nocheck>, ros-iron-launch-testing-ament-cmake <!nocheck>, ros-iron-sick-safevisionary-driver <!nocheck>, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-sick-safevisionary-tests
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-ros-workspace
+Description: Integration tests for the Sick SafeVisionary2 driver
