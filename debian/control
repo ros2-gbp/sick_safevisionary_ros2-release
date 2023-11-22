@@ -1,0 +1,12 @@
+Source: ros-iron-sick-safevisionary-driver
+Section: misc
+Priority: optional
+Maintainer: Marvin Grosse Besselmann <grosse@fzi.de>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake, ros-iron-cv-bridge, ros-iron-lifecycle-msgs, ros-iron-rclcpp, ros-iron-rclcpp-lifecycle, ros-iron-sensor-msgs, ros-iron-sick-safevisionary-base, ros-iron-sick-safevisionary-interfaces, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-sick-safevisionary-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-cv-bridge, ros-iron-lifecycle-msgs, ros-iron-rclcpp, ros-iron-rclcpp-lifecycle, ros-iron-sensor-msgs, ros-iron-sick-safevisionary-base, ros-iron-sick-safevisionary-interfaces, ros-iron-ros-workspace
+Description: Provides an interface to read the sensor output of a SICK Safevisionary sensor in ROS 2
