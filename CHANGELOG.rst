@@ -2,6 +2,9 @@
 Changelog for package sick_safevisionary_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.2 (2023-11-23)
+------------------
+
 1.0.1 (2023-11-22)
 ------------------
 * Update maintainer tags
