@@ -2,6 +2,11 @@
 Changelog for package sick_safevisionary_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.3 (2023-11-25)
+------------------
+* Use ROS version-dependent cv_bridge include
+* Contributors: Stefan Scherzinger
+
 1.0.2 (2023-11-23)
 ------------------
 * Add rosdep key for `boost`
