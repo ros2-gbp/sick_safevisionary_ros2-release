@@ -1,0 +1,12 @@
+Source: ros-jazzy-sick-safevisionary-tests
+Section: misc
+Priority: optional
+Maintainer: Marvin Grosse Besselmann <grosse@fzi.de>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-launch <!nocheck>, ros-jazzy-launch-ros <!nocheck>, ros-jazzy-launch-testing-ament-cmake <!nocheck>, ros-jazzy-sick-safevisionary-driver <!nocheck>, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-sick-safevisionary-tests
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-ros-workspace
+Description: Integration tests for the Sick SafeVisionary2 driver
