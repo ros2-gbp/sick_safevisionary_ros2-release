@@ -1,0 +1,12 @@
+Source: ros-kilted-sick-safevisionary-driver
+Section: misc
+Priority: optional
+Maintainer: Marvin Grosse Besselmann <grosse@fzi.de>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-kilted-ament-cmake, ros-kilted-cv-bridge, ros-kilted-lifecycle-msgs, ros-kilted-rclcpp, ros-kilted-rclcpp-lifecycle, ros-kilted-sensor-msgs, ros-kilted-sick-safevisionary-base, ros-kilted-sick-safevisionary-interfaces, ros-kilted-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kilted-sick-safevisionary-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-kilted-cv-bridge, ros-kilted-lifecycle-msgs, ros-kilted-rclcpp, ros-kilted-rclcpp-lifecycle, ros-kilted-sensor-msgs, ros-kilted-sick-safevisionary-base, ros-kilted-sick-safevisionary-interfaces, ros-kilted-ros-workspace
+Description: Provides an interface to read the sensor output of a SICK Safevisionary sensor in ROS 2
