@@ -1,0 +1,31 @@
+ros-kilted-sick-safevisionary-interfaces (1.0.4-1bookworm) bookworm; urgency=high
+
+  * Updated maintainer information
+  * Contributors: Christian Eichmann
+
+ -- Christian Eichmann <eichmann@fzi.de>  Wed, 19 Nov 2025 23:00:00 -0000
+
+ros-kilted-sick-safevisionary-interfaces (1.0.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Marvin Grosse Besselmann <grosse@fzi.de>  Fri, 24 Nov 2023 23:00:00 -0000
+
+ros-kilted-sick-safevisionary-interfaces (1.0.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Marvin Grosse Besselmann <grosse@fzi.de>  Wed, 22 Nov 2023 23:00:00 -0000
+
+ros-kilted-sick-safevisionary-interfaces (1.0.1-1bookworm) bookworm; urgency=high
+
+  * Update maintainer tags
+  * Add a minimal readme for the interfaces package
+  * Added license and maintainer infos
+  * added header to custom msgs
+  * Added interfaces for internal sensor data
+  * Contributors: Marvin Große Besselmann, Stefan Scherzinger
+
+ -- Marvin Grosse Besselmann <grosse@fzi.de>  Tue, 21 Nov 2023 23:00:00 -0000
+
+
