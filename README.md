@@ -1,3 +1,29 @@
+## sick_safevisionary_ros2 (kilted) - 1.0.4-1
+
+The packages in the `sick_safevisionary_ros2` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted sick_safevisionary_ros2` on `Sun, 22 Feb 2026 12:39:16 -0000`
+
+These packages were released:
+- `sick_safevisionary_driver`
+- `sick_safevisionary_interfaces`
+- `sick_safevisionary_tests`
+
+Version of package(s) in repository `sick_safevisionary_ros2`:
+
+- upstream repository: https://github.com/SICKAG/sick_safevisionary_ros2.git
+- release repository: https://github.com/ros2-gbp/sick_safevisionary_ros2-release.git
+- rosdistro version: `1.0.3-3`
+- old version: `1.0.3-3`
+- new version: `1.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## sick_safevisionary_ros2 (humble) - 1.0.3-1
 
 The packages in the `sick_safevisionary_ros2` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble sick_safevisionary_ros2` on `Wed, 29 Nov 2023 10:22:50 -0000`
