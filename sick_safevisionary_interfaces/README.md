@@ -1,5 +1,5 @@
-# SICK safeVisionary Interfaces
-Interface definitions for the SICK *safeVisionary2* driver.
+# Sick Safevisionary Interfaces
+Interface definitions for the Sick *safeVisionary2* driver.
 
 ## Individual build
 In the root of a sourced workspace, call

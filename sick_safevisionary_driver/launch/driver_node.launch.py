@@ -38,7 +38,7 @@ def generate_launch_description():
     )
     args = [port, frame_id, real_hw]
 
-    # The SICK safeVisionary2 Driver
+    # The Sick safeVisionary2 driver
     driver_node = LifecycleNode(
         package="sick_safevisionary_driver",
         executable="driver_node",
