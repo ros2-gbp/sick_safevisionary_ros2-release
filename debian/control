@@ -1,0 +1,12 @@
+Source: ros-lyrical-sick-safevisionary-tests
+Section: misc
+Priority: optional
+Maintainer: Marvin Grosse Besselmann <grosse@fzi.de>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-launch <!nocheck>, ros-lyrical-launch-ros <!nocheck>, ros-lyrical-launch-testing-ament-cmake <!nocheck>, ros-lyrical-sick-safevisionary-driver <!nocheck>, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/sick_safevisionary_tests/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-sick-safevisionary-tests
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-ros-workspace
+Description: Integration tests for the Sick SafeVisionary2 driver
