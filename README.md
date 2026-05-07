@@ -1,3 +1,29 @@
+## sick_safevisionary_ros2 (jazzy) - 1.0.5-1
+
+The packages in the `sick_safevisionary_ros2` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy sick_safevisionary_ros2` on `Thu, 07 May 2026 09:04:28 -0000`
+
+These packages were released:
+- `sick_safevisionary_driver`
+- `sick_safevisionary_interfaces`
+- `sick_safevisionary_tests`
+
+Version of package(s) in repository `sick_safevisionary_ros2`:
+
+- upstream repository: https://github.com/SICKAG/sick_safevisionary_ros2.git
+- release repository: https://github.com/ros2-gbp/sick_safevisionary_ros2-release.git
+- rosdistro version: `1.0.3-3`
+- old version: `1.0.3-3`
+- new version: `1.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## sick_safevisionary_ros2 (humble) - 1.0.5-1
 
 The packages in the `sick_safevisionary_ros2` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble sick_safevisionary_ros2` on `Thu, 07 May 2026 09:02:18 -0000`
