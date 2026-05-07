@@ -99,7 +99,7 @@ tracks:
     - git-bloom-generate -y rosdynrpm --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc} --require-os fedora rhel
     devel_branch: main
-    last_version: 1.0.4
+    last_version: 1.0.5
     name: sick_safevisionary_ros2
     patches: null
     release_inc: '1'
